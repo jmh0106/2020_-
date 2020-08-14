@@ -1,0 +1,15 @@
+﻿  GameScene.cpp
+D:\정민호\5일차\Engine\Engine\GameScene.cpp(9,8): warning C4552: '-': 식의 결과가 사용되지 않습니다.
+D:\정민호\5일차\Engine\Engine\GameScene.cpp(96,54): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\정민호\5일차\Engine\Engine\GameScene.cpp(100,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\정민호\5일차\Engine\Engine\GameScene.cpp(104,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\정민호\5일차\Engine\Engine\GameScene.cpp(131,17): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\정민호\5일차\Engine\Engine\GameScene.cpp(152,21): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\정민호\5일차\Engine\Engine\GameScene.cpp(172,19): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\정민호\5일차\Engine\Engine\GameScene.cpp(200,15): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  1 of 361 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Engine.vcxproj -> D:\정민호\5일차\Engine\Release\Engine.exe
